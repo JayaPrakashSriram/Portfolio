@@ -437,6 +437,16 @@ img {
     grid-template-columns: repeat(2, 1fr);
     gap: 2.5rem;
   }
+
+  .single-project{
+    display:flex;
+    justify-content: center;
+  }
+
+  .bold-in-about{
+    color:purple
+  }
+  
   
   .portfolio_item{
     background: var(--color-bg-variant);
